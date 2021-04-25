@@ -1,6 +1,19 @@
-Joined Github 0 years ago.
+Account age: **0** years
 
-Since then I pushed 14 commits, opened 0 issues, submitted 4 pull requests, received 0 stars across 2 personal projects and contributed to 1 public repositories.
+Pushed **15** commits
 
-Most used languages across my projects:
+Opened **0** issues
+
+Submitted **4** pull requests
+
+Received **0** stars
+
+Own **2** repositories
+
+Contributed to **1** public repositories
+
+Top 8 most used languages across your repositories:
+
+
+Top 4 most used languages across your repositories:
 
