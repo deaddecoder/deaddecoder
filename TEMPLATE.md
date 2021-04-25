@@ -6,7 +6,7 @@ Opened **{{ ISSUES }}** issues
 
 Submitted **{{ PULL_REQUESTS }}** pull requests
 
-Received **{{ STARS }}** stars
+Receive **{{ STARS }}** stars
 
 Own **{{ REPOSITORIES }}** repositories
 
